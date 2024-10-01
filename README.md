@@ -19,7 +19,7 @@ You can see my repositories below, my strongest languages are SQL, Java, C++ and
 
 ## About Me
 
-💬 My personal interests include playing guitar (and all forms of music), programming, space, 
+💬 My personal interests include playing guitar (and all forms of music), programming, space, and video games 🎮
 
 😄 Pronouns: He/Him
 
@@ -29,6 +29,6 @@ You can see my repositories below, my strongest languages are SQL, Java, C++ and
 
 📫 Email: [aidanmclean111@gmail.com](https://aidanmclean111@gmail.com)
 
-⌨️ Personal website: ([levimclean.tech](https://levimclean.tech/index.html))
+💻 Personal website: ([levimclean.tech](https://levimclean.tech/index.html))
 
 📸 Instagram: [levim_.0323](https://instagram.com/levi_.0323)
