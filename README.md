@@ -31,4 +31,4 @@ You can see my repositories below, my strongest languages are SQL, Java, C++ and
 
 ⌨️ Personal website: ([levimclean.tech](https://levimclean.tech/index.html))
 
-📸 Instagram: [levim_.0323](https://instagram.com/levim_.0323)
+📸 Instagram: [levim_.0323](https://instagram.com/levi_.0323)
