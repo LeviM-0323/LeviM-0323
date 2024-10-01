@@ -16,7 +16,6 @@ You can see my repositories below, my strongest languages are SQL, Java, C++ and
 - JQuery
 - JavaScript
 - C#
-- 
 
 ## About Me
 
