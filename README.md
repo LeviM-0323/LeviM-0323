@@ -31,6 +31,3 @@
 💻 Personal website: ([levimclean.tech](https://levimclean.tech/))
 
 📸 Instagram: [levim_.0323](https://instagram.com/levi_.0323)
-
----
-[![](https://visitcount.itsvg.in/api?id=LeviM-0323&icon=0&color=0)](https://visitcount.itsvg.in)
