@@ -8,7 +8,6 @@
 - Building my personal website
 - Graduating from College
 - Finding my first programming job
-- Finishing this Github page 😅
 
 ## 🌱 I’m currently learning ...
 - Bootstrap
